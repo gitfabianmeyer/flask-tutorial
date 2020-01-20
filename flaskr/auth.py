@@ -70,7 +70,7 @@ def login():
 
 # runs before view function, on every url.
 # load_logged.. stores user id on g.user, which lasts for length of request
-@bp.before_app_first_request
+@bp.before_app_request
 def load_logged_in_user():
     user_id = session.get('user_id')
 

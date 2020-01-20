@@ -1,3 +1,6 @@
+## The deployment:
+Note
+This is being introduced late in the tutorial, but in your future projects you should always start with this.
 ## The layout:
 Each page in the application will have the same basic layout around a different body. Instead of writing the entire HTML structure in each template, each template will extend a base template and override specific sections.
 
