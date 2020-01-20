@@ -9,4 +9,4 @@ The authentication views and templates work, but they look very plain right now.
 
 
 ## stop at:
-http://flask.palletsprojects.com/en/1.1.x/tutorial/blog/
+http://flask.palletsprojects.com/en/1.1.x/tutorial/tests/
